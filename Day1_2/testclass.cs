@@ -11,6 +11,7 @@ namespace Day1_2
         static void main(string[] args)
         {
             Console.WriteLine("huy");
+            Console.WriteLine("Tu");
         }
     }
 }
