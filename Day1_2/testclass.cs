@@ -8,6 +8,9 @@ namespace Day1_2
 {
     internal class testclass
     {
-
+        static void main(string[] args)
+        {
+            Console.WriteLine("huy");
+        }
     }
 }

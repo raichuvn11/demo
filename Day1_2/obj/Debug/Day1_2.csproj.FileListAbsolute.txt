@@ -10,3 +10,15 @@ C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\Day1\Day1_2\obj\Debug\Day1_2.pdb
 C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\Day1\Day1_2\obj\Debug\Day1_2.FHocSinh.resources
 C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\Day1\Day1_2\obj\Debug\Day1_2.FChinh.resources
 C:\Users\nmtu\OneDrive\LẬP TRÌNH WINDOW\CODE\Day1\Day1_2\obj\Debug\Day1_2.FGiaoVien.resources
+D:\git\Day1_2\obj\Debug\Day1_2.csproj.AssemblyReference.cache
+D:\git\Day1_2\obj\Debug\Day1_2.FChinh.resources
+D:\git\Day1_2\obj\Debug\Day1_2.FGiaoVien.resources
+D:\git\Day1_2\obj\Debug\Day1_2.FHocSinh.resources
+D:\git\Day1_2\obj\Debug\Day1_2.Properties.Resources.resources
+D:\git\Day1_2\obj\Debug\Day1_2.csproj.GenerateResource.cache
+D:\git\Day1_2\obj\Debug\Day1_2.csproj.CoreCompileInputs.cache
+D:\git\Day1_2\obj\Debug\Day1_2.exe
+D:\git\Day1_2\obj\Debug\Day1_2.pdb
+D:\git\Day1_2\bin\Debug\Day1_2.exe.config
+D:\git\Day1_2\bin\Debug\Day1_2.exe
+D:\git\Day1_2\bin\Debug\Day1_2.pdb
