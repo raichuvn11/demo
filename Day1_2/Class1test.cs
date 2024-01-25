@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day1_2
 {
-    internal class testclass
+    internal class Class1test
     {
-        static void main(string[] args)
-        {
-            Console.WriteLine("phat dep trai");
-        }
     }
 }
