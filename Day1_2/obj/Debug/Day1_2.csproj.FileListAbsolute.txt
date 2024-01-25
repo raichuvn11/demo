@@ -22,3 +22,15 @@ D:\git\Day1_2\obj\Debug\Day1_2.pdb
 D:\git\Day1_2\bin\Debug\Day1_2.exe.config
 D:\git\Day1_2\bin\Debug\Day1_2.exe
 D:\git\Day1_2\bin\Debug\Day1_2.pdb
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\bin\Debug\Day1_2.exe.config
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\bin\Debug\Day1_2.exe
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\bin\Debug\Day1_2.pdb
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.csproj.AssemblyReference.cache
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.FChinh.resources
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.FGiaoVien.resources
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.FHocSinh.resources
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.Properties.Resources.resources
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.csproj.GenerateResource.cache
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.csproj.CoreCompileInputs.cache
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.exe
+D:\UTE2\HOCKI2\LTWindow\Test\Day1_2\obj\Debug\Day1_2.pdb
