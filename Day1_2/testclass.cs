@@ -13,6 +13,8 @@ namespace Day1_2
             Console.WriteLine("huy");
             Console.WriteLine("Tu");
             Console.WriteLine("Tu2");
+            Console.WriteLine("Huy2");
+
         }
     }
 }
