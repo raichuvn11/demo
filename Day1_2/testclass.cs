@@ -14,7 +14,7 @@ namespace Day1_2
             Console.WriteLine("Tu");
             Console.WriteLine("Tu2");
             Console.WriteLine("Huy2");
-
+            Console.WriteLine("phat test");
         }
     }
 }
